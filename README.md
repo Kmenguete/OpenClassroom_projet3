@@ -39,3 +39,35 @@ l'équipe chargé du projet.
 
 ## 3. L'importance du prototypage 
 
+Dans un tel projet, le piège est de foncer tête baissée dans le
+code sans se préoccuper des attentes du client. Ainsi, on aboutit 
+souvent à une application qui ne répond pas ou plus aux besoins réelles
+du client. Si, au contraire, on s'efforce de conceptualiser les
+idées du client. Autrement dit, on tente de comprendre ce que le
+client veut exactement. On s'épargne ainsi, des heures de travail inutile 
+et beaucoup de frustrations. Tout projet doit être prototypé
+au préalable. De plus, le prototype doit tenir compte du fait que les besoins 
+du client peuvent évoluer avec le temps. C'est la raison pour laquelle,
+dans le cadre de ce projet, j'ai tout d'abord souhaité réaliser 
+un prototype du site web et de l'application avant de plonger
+dans le code. 
+
+## 4. La phase de développement 
+
+La phase de développement doit s'inscrire dans la continuité 
+du travail qui a été réalisé en amont. Ce qui signifie que les 
+fonctions et les classes qui composeront notre application
+doivent correspondre aux fonctionnalités et sous-fonctionnalités
+demandées par les utilisateurs. Encore une fois, dans le cadre de
+ce projet, nous travaillions avec une approche agile. Ce qui signifie 
+que notre programme doit être conçu de sorte à pouvoir s'adapter 
+rapidement à l'évolution des besoins des utilisateurs.
+
+## 5. La phase de maintenance 
+
+Au même titre que la phase de développement, la phase de 
+maintenance doit également s'intégrer dans une approche 
+agile. Ce qu'il faut garder à l'esprit tout au long du
+projet, c'est que les besoins et les priorités changent
+constamment. La gestion de projet agile, c'est justement 
+évoluer en fonction de ces changements.
