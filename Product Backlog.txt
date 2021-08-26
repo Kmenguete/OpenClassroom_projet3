@@ -1,0 +1,64 @@
+Les user stories 
+
+User story 1 : En tant qu'élève, j'ai besoin d'avoir la possibilité de communiquer avec un professeur.
+
+User story 2 : En tant que professeur bénévole, j'ai besoin de pouvoir communiquer avec mes élèves. 
+
+User story 3 : En tant qu'élève, j'ai besoin de pouvoir planifier mes devoirs. 
+
+User story 4 : En tant que professeur, je veut pouvoir donner des exercices à mes élèves. 
+
+User story 5 : En tant qu'élève, je voudrais avoir la possibilité de vérifier ma progression dans les différentes matières.
+
+User story 6 : En tant que professeur, je veut pouvoir évaluer mes élèves.
+
+User story 7 : En tant que professeur, je veut avoir la possibilité d'organiser des réunions  avec mes élèves. 
+
+Critères d'acceptation privilégiés : méthode MOSCOW 
+
+1. Must have
+2. Should have 
+3. Could have 
+4. Want to have but won't have
+
+User story 1 : Moscow = 1 
+
+User story 2 : Moscow = 1
+
+User story 3 : Moscow = 1
+
+User story 4 : Moscow = 1
+
+User story 5 : Moscow = 2
+
+User story 6 : Moscow = 2
+
+User story 7 : Moscow = 3
+
+Une User story : Une ou plusieurs tâches à réaliser 
+
+Instrument de mesure pour estimer la complexité d'une tâche : La taille des T-shirt. 
+Autrement dit, plus le T-shirt est grand, plus la tâche est complexe à réaliser. 
+
+Les différentes tailles de T-shirt : XS, S, M, L, XL, XXL
+
+User story 1 : S
+
+User story 2 : S
+
+User story 3 : M 
+User story 4 : XL 
+
+User story 5 : XL 
+
+User story 6 : M
+
+User story 7 : S 
+
+Tâches User story 1 et 2: Créer une interface de connexion, donner la possibilité de se connecter, de créer un compte, de récupérer son mot de passe, créer une interface de chat. 
+
+Tâches User story 3, 4 et 7 : Créer un agenda qui permet de planifier des événements. 
+
+Tâches User story 5 et 6 : Créer un catalogue de cours. Créer un système de notation pour chaque matière.
+
+
